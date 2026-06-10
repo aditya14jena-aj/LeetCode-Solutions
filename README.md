@@ -2,6 +2,12 @@
 
 My LeetCode journey with solutions, explanations, failed attempts, and complexity analysis.
 
+#TRACK
+| Easy | 2 |
+| Medium | 0 |
+| Hard | 0 |
+| Total | 2 |
+
 ## Easy
 
 | # | Problem | Solution |
