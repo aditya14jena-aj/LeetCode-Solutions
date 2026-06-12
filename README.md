@@ -6,10 +6,10 @@ My LeetCode journey with solutions, explanations, failed attempts, and complexit
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 5 |
+| 🟢 Easy | 6 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **5** |
+| **Total** | **6** |
 
 ## Easy
 
@@ -20,6 +20,7 @@ My LeetCode journey with solutions, explanations, failed attempts, and complexit
 | 35 | Search Insert Position | [View](Easy/35_Search_Insert_Position/) |
 | 58 | Length of Last Word | [View](Easy/58_Length_of_Last_Word/) |
 | 66 | Plus One | [View](Easy/66_Plus_One/) |
+| 67 | Add Binary | [View](Easy/67_Add_Binary/) |
 
 ## Medium
 
