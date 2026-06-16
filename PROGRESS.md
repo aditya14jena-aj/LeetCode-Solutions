@@ -7,9 +7,9 @@ My LeetCode journey with solutions, explanations, failed attempts, and complexit
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 6 |
-| 🟡 Medium | 0 |
+| 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ## Easy
 
@@ -24,7 +24,9 @@ My LeetCode journey with solutions, explanations, failed attempts, and complexit
 
 ## Medium
 
-Coming soon...
+| # | Problem | Solution |
+|---|---------|----------|
+| 3612 | Process String With Special Operations | [View](Medium/3612_Process_String_With_Special_Operations/) |
 
 ## Hard
 
