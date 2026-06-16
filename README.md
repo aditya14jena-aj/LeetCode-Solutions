@@ -6,10 +6,10 @@ My LeetCode journey with solutions, explanations, failed attempts, and complexit
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 6 |
+| 🟢 Easy | 7 |
 | 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **7** |
+| **Total** | **8** |
 
 ## Easy
 
@@ -21,6 +21,7 @@ My LeetCode journey with solutions, explanations, failed attempts, and complexit
 | 58 | Length of Last Word | [View](Easy/58_Length_of_Last_Word/) |
 | 66 | Plus One | [View](Easy/66_Plus_One/) |
 | 67 | Add Binary | [View](Easy/67_Add_Binary/) |
+| 69 | Find SQRT | [View](Easy/69_Sqrt_x/) |
 
 ## Medium
 
