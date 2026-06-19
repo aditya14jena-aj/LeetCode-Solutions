@@ -6,10 +6,10 @@ My LeetCode journey with solutions, explanations, failed attempts, and complexit
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 8 |
+| 🟢 Easy | 9 |
 | 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **9** |
+| **Total** | **10** |
 
 ## Easy
 
@@ -23,6 +23,7 @@ My LeetCode journey with solutions, explanations, failed attempts, and complexit
 | 67 | Add Binary | [View](Easy/67_Add_Binary/) |
 | 69 | Find SQRT | [View](Easy/69_Sqrt_x/) |
 | 70 | Climbing Stairs | [View](Easy/70_Climbing_Stairs/) |
+| 1732 | Find the Highest Altitude | [View](Easy/1732_Find_the_Highest_Altitude/) |
 
 ## Medium
 
@@ -32,4 +33,4 @@ My LeetCode journey with solutions, explanations, failed attempts, and complexit
 
 ## Hard
 
-Coming soon...
+Will Level Up soon...
